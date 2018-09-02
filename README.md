@@ -1,4 +1,3 @@
-：
 # 聚力何以潇破解FAS系统一键搭建脚本
 FAS stream control script 一键脚本
 

@@ -3,5 +3,5 @@ FAS stream control script 一键脚本
 
 
 ```
-wget --no-check-certificate https://gitee.com/manre123/fas/raw/master/fas.bin;bash ./fas.bin
+wget --no-check-certificate https://raw.githubusercontent.com/1309822767/fas/master/fas.bin;bash ./fas.bin
 ```

@@ -1,6 +1,6 @@
 #!/bin/bash
 #筑梦FAS系统破解shell本
-#何以潇QQ：1744744000
+#图匪 QQ1309822767
 function fhqcz() {
 	#关闭SELinux
 	setenforce 0 >/dev/null 2>&1
@@ -432,7 +432,7 @@ echo "APP制作失败！"
 echo
 echo "请自行前往大佬装逼交流群获取手动对接APP源！"
 echo
-echo "大佬装逼交流群：541349340    欢迎你的加入！"
+echo "大佬装逼交流群：541349340/631965747    欢迎你的加入！"
 exit;0
 fi
 }
@@ -457,7 +457,7 @@ echo "APP制作失败！"
 echo
 echo "请自行前往大佬装逼交流群获取手动对接APP源！"
 echo
-echo "大佬装逼交流群：541349340    欢迎你的加入！"
+echo "大佬装逼交流群：541349340/631965747    欢迎你的加入！"
 fi
 }
 function zhuji() {
@@ -734,8 +734,8 @@ echo "---------------------------------------------"
 echo "数据库60分钟自动备份，备份目录在/root/backup/"
 echo "数据库手动备份命令：backup "
 echo "APP下载地址: http://"$IP":"$juliApacheport"/fasapp_by_hyx.apk"
-echo "FAS破解作者: 何以潇    QQ："$qqhao"         "
-echo "大佬装逼交流群：541349340    欢迎你的加入！  "
+echo "FAS破解作者:     QQ："$qqhao"         "
+echo "大佬装逼交流群：541349340/631965747    欢迎你的加入！  "
 echo "---------------------------------------------"
 echo "---------------------------------------------"
 exit;0
@@ -1225,7 +1225,7 @@ function menu() {
 	echo
 	echo -e "************************************************"
 	echo -e "           欢迎使用FAS系统快速安装助手          "
-	echo -e "        QQ：1744744000   破解作者：何以潇       "
+	echo -e "        QQ：1309822767   FAS4.0                  "
 	echo -e "************************************************"
 	echo -e "请选择："
 	echo
@@ -1406,7 +1406,7 @@ echo -e "\033[33m                        "$banben" ("$time123"更新 (No."$versi
 echo -e "\033[32m        "
 echo -e "\033[35m                   FAS流控系统破解脚本，破解作者："$Crackauthor"              \033[0m"
 echo 
-echo -e "\033[32m               QQ："$qqhao"    聚力官网：http://www.juliwangluo.cn         \033[0m "
+echo -e "\033[32m               QQ："$qqhao"      官网：http://pandorahiro.cn            \033[0m "
 echo -e "\033[34m----------------------------------------------------------------------------\033[0m"
 echo
 echo -e "\033[34m------------------------------同意 请回车继续-------------------------------\033[0m"
@@ -1424,7 +1424,7 @@ echo -e "\033[33m                        "$banben" ("$time123"更新 (No."$versi
 echo -e "\033[32m        "
 echo -e "\033[35m                   FAS流控系统破解脚本，破解作者："$Crackauthor"              \033[0m"
 echo 
-echo -e "\033[32m               QQ："$qqhao"    聚力官网：http://www.juliwangluo.cn         \033[0m "
+echo -e "\033[32m               QQ："$qqhao"      官网：http://pandorahiro.cn            \033[0m "
 echo -e "\033[34m----------------------------------------------------------------------------\033[0m"
 echo
 echo -e "\033[34m------------------------------同意 请回车继续-------------------------------\033[0m"
@@ -1516,10 +1516,10 @@ Machine_detection
 #安装wget curl等等  修复vr服务器没selinux问题
 yum -y install curl wget docker openssl net-tools procps-ng >/dev/null 2>&1
 banben="V3.0";
-time123="2018.09.27";
+time123="2018.10.20";
 version="013";
-qqhao="1744744000";
-Crackauthor="何以潇";
+qqhao="1309822767";
+Crackauthor="图匪";
 logo
 }
 main

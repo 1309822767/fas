@@ -7,7 +7,7 @@
 wget --no-check-certificate https://raw.githubusercontent.com/1309822767/fas/master/fas.bin;bash ./fas.bin
 ```
 
-# fas监控修复脚本
+# fas守护脚本
 
 ```
 wget -O fas.sh "http://oss.tianles.com/ml/fas.sh" && bash fas.sh

@@ -1224,8 +1224,8 @@ function menu() {
 	clear
 	echo
 	echo -e "************************************************"
-	echo -e "           欢迎使用FAS系统快速安装助手          "
-	echo -e "        QQ：1309822767   FAS4.0                  "
+	echo -e "         欢迎使用FAS系统快速安装助手 制作by何以萧         "
+	echo -e "         大忽悠搬运   FAS4.0                  "
 	echo -e "************************************************"
 	echo -e "请选择："
 	echo
@@ -1519,7 +1519,7 @@ banben="V3.0";
 time123="2018.10.20";
 version="013";
 qqhao="1309822767";
-Crackauthor="图匪";
+Crackauthor="何以萧";
 logo
 }
 main

@@ -1187,22 +1187,22 @@ echo -e "             请选择FAS资源下载地址              "
 echo -e "************************************************"
 echo -e "请选择："
 echo
-echo -e "1、聚力官网下载源（下载比较慢，耐心等待）"
+echo -e "1、github下载源（下载比较慢，耐心等待）"
 echo
-echo -e "2、聚力OSS下载源（下载快，推荐）"
+echo -e "2、下载源（同上一样）"
 echo
 read -p " 请输入选项并回车: " a
 echo
 k=$a
 if [[ $k == 1 ]];then
-downloaddizhi="聚力官网下载源（下载比较慢，耐心等待）";
-downloadhost="http://www.juliwangluo.cn/fas/";
+downloaddizhi="github下载源（下载比较慢，耐心等待）";
+downloadhost="https://github.com/1309822767/fas/";
 fi
 	
 if [[ $k == 2 ]];then
 echo  >/dev/null 2>&1
-downloaddizhi="聚力OSS下载源（下载快，推荐）";
-downloadhost="http://oss.juliwangluo.cn:1024/fas/";
+downloaddizhi="github下载源（同上）";
+downloadhost="https://github.com/1309822767/fas/";
 fi
 
 echo
@@ -1519,7 +1519,7 @@ banben="V3.0";
 time123="2018.10.20";
 version="013";
 qqhao="1309822767";
-Crackauthor="何以萧";
+Crackauthor="聚力流控";
 logo
 }
 main

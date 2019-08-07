@@ -1,6 +1,7 @@
 #!/bin/bash
 #筑梦FAS系统破解shell本
-#图匪 QQ1309822767
+#作者：何以箫
+#保留：图匪 ：QQ1309822767
 function fhqcz() {
 	#关闭SELinux
 	setenforce 0 >/dev/null 2>&1
@@ -734,7 +735,7 @@ echo "---------------------------------------------"
 echo "数据库60分钟自动备份，备份目录在/root/backup/"
 echo "数据库手动备份命令：backup "
 echo "APP下载地址: http://"$IP":"$juliApacheport"/fasapp_by_hyx.apk"
-echo "FAS破解作者:     QQ："$qqhao"         "
+echo "FAS破解作者:何以箫     QQ："$qqhao"         "
 echo "大佬装逼交流群：541349340/631965747    欢迎你的加入！  "
 echo "---------------------------------------------"
 echo "---------------------------------------------"
@@ -1196,13 +1197,13 @@ echo
 k=$a
 if [[ $k == 1 ]];then
 downloaddizhi="github下载源（下载比较慢，耐心等待）";
-downloadhost="https://github.com/1309822767/fas/";
+downloadhost="https://raw.githubusercontent.com/1309822767/fas/master/";
 fi
 	
 if [[ $k == 2 ]];then
 echo  >/dev/null 2>&1
 downloaddizhi="github下载源（同上）";
-downloadhost="https://github.com/1309822767/fas/";
+downloadhost="https://raw.githubusercontent.com/1309822767/fas/master/";
 fi
 
 echo
